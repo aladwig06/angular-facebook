@@ -1,4 +1,4 @@
 angular-facebook
 ================
 
-Facebook View make with Angularjs
+Facebook View made with Angularjs
